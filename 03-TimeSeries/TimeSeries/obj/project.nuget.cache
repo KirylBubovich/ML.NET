@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/DJK9cEUyUoHm+vAqLTO2q0gOwhOpqkK+CteS5vBHTlPGzpq+e5v0+mjaqdvOrDeTZyqBOn0Im/TJWyZd/PMsQ==",
+  "dgSpecHash": "IzL2CRBL5DsSoZuZWX2EHJL3n/w61c8DLafhV3YzjIyaylf2XO5TfL623rywuKHw2oQkJi5Ac9eJb8BWt4Obdg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Prog\\C#\\ML.NET\\TimeSeries\\TimeSeries\\TimeSeries.csproj",
+  "projectFilePath": "D:\\Programming\\Prog\\C#\\ML.NET\\03-TimeSeries\\TimeSeries\\TimeSeries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.ml\\1.5.2\\microsoft.ml.1.5.2.nupkg.sha512",

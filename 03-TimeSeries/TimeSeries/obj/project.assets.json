@@ -5618,11 +5618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Prog\\C#\\ML.NET\\TimeSeries\\TimeSeries\\TimeSeries.csproj",
+      "projectUniqueName": "D:\\Programming\\Prog\\C#\\ML.NET\\03-TimeSeries\\TimeSeries\\TimeSeries.csproj",
       "projectName": "TimeSeries",
-      "projectPath": "D:\\Programming\\Prog\\C#\\ML.NET\\TimeSeries\\TimeSeries\\TimeSeries.csproj",
+      "projectPath": "D:\\Programming\\Prog\\C#\\ML.NET\\03-TimeSeries\\TimeSeries\\TimeSeries.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Prog\\C#\\ML.NET\\TimeSeries\\TimeSeries\\obj\\",
+      "outputPath": "D:\\Programming\\Prog\\C#\\ML.NET\\03-TimeSeries\\TimeSeries\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
