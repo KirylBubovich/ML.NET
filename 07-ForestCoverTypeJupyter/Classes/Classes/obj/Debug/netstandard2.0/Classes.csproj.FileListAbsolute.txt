@@ -1,0 +1,9 @@
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\bin\Debug\netstandard2.0\Classes.deps.json
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\bin\Debug\netstandard2.0\Classes.dll
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\bin\Debug\netstandard2.0\Classes.pdb
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\obj\Debug\netstandard2.0\Classes.csproj.CoreCompileInputs.cache
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\obj\Debug\netstandard2.0\Classes.dll
+D:\Programming\Prog\C#\ML.NET\ForestCoverType\Classes\Classes\obj\Debug\netstandard2.0\Classes.pdb

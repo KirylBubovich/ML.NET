@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UO9EruwboRH0Ropabf4Kud2W1Dt+IjklLlQe1G4a2RW4JSJvug/EToxR0G9d2MSg98SwdpLNgeing9ipzkgW6w==",
+  "dgSpecHash": "NLgLRvoBgKjHdbvFOqNg5vQr/kdGaF5v7nkDk4r2Hn2UQHSzQda5a7zwtmZiG7yiwVEaiMmRGhwO9KhBrvB+LA==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Prog\\C#\\ML.NET\\05-TitanicBi\\Titanic\\Titanic.csproj",
+  "projectFilePath": "D:\\Programming\\Prog\\C#\\ML.NET\\05-Titanic\\Titanic\\Titanic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\lightgbm\\2.2.3\\lightgbm.2.2.3.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

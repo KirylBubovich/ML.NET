@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDT0WkuKM8iux1hD82QbrodvQX6f05nMb0A+oSDupyCHTPYYJi7HNw1445kFESnj3EhXocJ+WbWL+vtfpdJpCw==",
+  "dgSpecHash": "MSYrXjMn2+jPCk1l1Nrd4tDxWgoKMldDXw42E4Ff8letDdxflR5JjaQHzviSAViOZT8zRUcEwrwz5zd7SLJcow==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Prog\\C#\\ML.NET\\ImageClassification\\ImageClassification\\ImageClassification.csproj",
+  "projectFilePath": "D:\\Programming\\Prog\\C#\\ML.NET\\02-ImageClassification\\ImageClassification\\ImageClassification.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\google.protobuf\\3.10.0\\google.protobuf.3.10.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

@@ -6047,11 +6047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Prog\\C#\\ML.NET\\ImageClassification\\ImageClassification\\ImageClassification.csproj",
+      "projectUniqueName": "D:\\Programming\\Prog\\C#\\ML.NET\\02-ImageClassification\\ImageClassification\\ImageClassification.csproj",
       "projectName": "ImageClassification",
-      "projectPath": "D:\\Programming\\Prog\\C#\\ML.NET\\ImageClassification\\ImageClassification\\ImageClassification.csproj",
+      "projectPath": "D:\\Programming\\Prog\\C#\\ML.NET\\02-ImageClassification\\ImageClassification\\ImageClassification.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Prog\\C#\\ML.NET\\ImageClassification\\ImageClassification\\obj\\",
+      "outputPath": "D:\\Programming\\Prog\\C#\\ML.NET\\02-ImageClassification\\ImageClassification\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
